@@ -1,0 +1,162 @@
+﻿Diagnose log at 2025-09-05T02:36:39Z
+
+AppPath: /usr/sbin/git-credential-manager
+InstallDir: /usr/lib/share/git-credential-manager/
+Version: 2.6.1+cfde1f3f2d4294d4e690a9b80ed9502692c96860
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Linux
+OSVersion: Arch Linux
+Reading environment variables... OK
+ Variables:
+CONDA_PROMPT_MODIFIER=(qca) 
+WT_SESSION=f5ea0057-8e0a-445c-a76b-1b547bb15d25
+CONDA_PREFIX=/home/younos/.conda/envs/qca
+DEBUGINFOD_URLS=https://debuginfod.archlinux.org 
+WAYLAND_DISPLAY=wayland-0
+_=/usr/sbin/git-credential-manager
+SHLVL=1
+USER=younos
+HOME=/home/younos
+DISPLAY=:0
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.7z=01;31:*.ace=01;31:*.alz=01;31:*.apk=01;31:*.arc=01;31:*.arj=01;31:*.bz=01;31:*.bz2=01;31:*.cab=01;31:*.cpio=01;31:*.crate=01;31:*.deb=01;31:*.drpm=01;31:*.dwm=01;31:*.dz=01;31:*.ear=01;31:*.egg=01;31:*.esd=01;31:*.gz=01;31:*.jar=01;31:*.lha=01;31:*.lrz=01;31:*.lz=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.lzo=01;31:*.pyz=01;31:*.rar=01;31:*.rpm=01;31:*.rz=01;31:*.sar=01;31:*.swm=01;31:*.t7z=01;31:*.tar=01;31:*.taz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tgz=01;31:*.tlz=01;31:*.txz=01;31:*.tz=01;31:*.tzo=01;31:*.tzst=01;31:*.udeb=01;31:*.war=01;31:*.whl=01;31:*.wim=01;31:*.xz=01;31:*.z=01;31:*.zip=01;31:*.zoo=01;31:*.zst=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.jxl=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90:
+WSL_INTEROP=/run/WSL/255_interop
+PATH=/home/younos/.conda/envs/qca/bin:/opt/miniconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Users/Younos.YOUNOS-INSPIRON/miniconda3/condabin:/mnt/c/Users/Younos.YOUNOS-INSPIRON/AppData/Local/Programs/Python/Python311/Scripts:/mnt/c/Users/Younos.YOUNOS-INSPIRON/AppData/Local/Programs/Python/Python311:/mnt/c/Program Files/Zulu/zulu-11/bin:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0:/mnt/c/WINDOWS/System32/OpenSSH:/mnt/c/Program Files/dotnet:/mnt/c/Program Files (x86)/PharosSystems/Core:/mnt/c/Program Files/PuTTY:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/MATLAB/R2024b/bin:/mnt/c/Program Files/Wolfram Research/WolframScript:/mnt/c/Users/Younos.YOUNOS-INSPIRON/scoop/apps/tinytex/current/bin/windows:/mnt/c/Users/Younos.YOUNOS-INSPIRON/miniconda3:/mnt/c/Users/Younos.YOUNOS-INSPIRON/miniconda3/Library/mingw-w64/bin:/mnt/c/Users/Younos.YOUNOS-INSPIRON/miniconda3/Library/usr/bin:/mnt/c/Users/Younos.YOUNOS-INSPIRON/miniconda3/Library/bin:/mnt/c/Users/Younos.YOUNOS-INSPIRON/miniconda3/Scripts:/mnt/c/Users/Younos.YOUNOS-INSPIRON/AppData/Local/Programs/Python/Launcher:/mnt/c/Users/Younos.YOUNOS-INSPIRON/scoop/shims:/mnt/c/Users/Younos.YOUNOS-INSPIRON/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/VideoLan/VLC:/mnt/c/ffmpeg/bin:/mnt/c/Users/Younos.YOUNOS-INSPIRON/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/Younos.YOUNOS-INSPIRON/AppData/Local/Microsoft/WinGet/Packages/hrkfdn.ncspot_Microsoft.Winget.Source_8wekyb3d8bbwe:/mnt/c/Program Files/Vim/vim91:/mnt/c/Program Files/qimgv:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl
+PULSE_SERVER=unix:/mnt/wslg/PulseServer
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+XDG_RUNTIME_DIR=/run/user/1000/
+TERM=xterm-256color
+OLDPWD=/home/younos
+CONDA_SHLVL=1
+WT_PROFILE_ID={0caa0dad-35be-5f56-a8ff-afceeeaa6101}
+WSL_DISTRO_NAME=archlinux
+LANG=en_US.UTF-8
+WSLENV=WT_SESSION:WT_PROFILE_ID:
+CONDA_EXE=/opt/miniconda3/bin/conda
+LOGNAME=younos
+PWD=/home/younos/test-cli
+GIT_TRACE2_PARENT_SID=11caf485-540f-4472-baca-be579ddb50f3
+WSL2_GUI_APPS_ENABLED=1
+HOSTTYPE=x86_64
+SHELL=/usr/bin/bash
+NAME=YOUNOS-INSPIRON
+CONDA_DEFAULT_ENV=qca
+CONDA_PYTHON_EXE=/opt/miniconda3/bin/python
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is '/tmp/'...
+Checking basic file I/O...
+Writing to temporary file '/tmp/6f114ff688ab842958729b04'... OK
+Reading from temporary file '/tmp/6f114ff688ab842958729b04'... OK
+Deleting temporary file '/tmp/6f114ff688ab842958729b04'... OK
+Testing IFileSystem instance...
+UserHomePath: /home/younos
+UserDataDirectoryPath: /home/younos/.gcm
+GetCurrentDirectory(): /home/younos/test-cli
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com...Sending HEAD request to https://example.com... OK
+ OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:33047/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.51.0'
+Locating current repository...Git repository at '/home/younos/test-cli/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:/home/younos/.gitconfig	user.name=younos-hashem
+file:/home/younos/.gitconfig	user.email=yhashem3@gatech.edu
+file:/home/younos/.gitconfig	credential.credentialstore=gpg
+file:/home/younos/.gitconfig	credential.helper=manager
+file:/home/younos/.gitconfig	credential.helper=
+file:/home/younos/.gitconfig	credential.helper=/usr/sbin/git-credential-manager
+file:/home/younos/.gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=true
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	remote.origin.url=https://github.com/younos-hashem/test-cli
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.merge=refs/heads/main
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: False
+Exception:
+GitCredentialManager.Trace2Exception: Failed to encrypt file '/home/younos/.password-store/git/https/example.com/dae246874bb442df999f7636e0e94d92/john.doe.gpg' with gpg. exit=2, out=, err=gpg: ed25519: skipped: No public key
+gpg: [stdin]: encryption failed: No public key
+
+   at GitCredentialManager.Gpg.EncryptFile(String path, String gpgId, String contents)
+   at GitCredentialManager.Interop.Posix.GpgPassCredentialStore.SerializeCredential(FileCredential credential)
+   at GitCredentialManager.PlaintextCredentialStore.AddOrUpdate(String service, String account, String secret)
+   at GitCredentialManager.CredentialStore.AddOrUpdate(String service, String account, String secret)
+   at GitCredentialManager.Diagnostics.CredentialStoreDiagnostic.RunInternalAsync(StringBuilder log, IList`1 additionalFiles)
+   at GitCredentialManager.Diagnostics.Diagnostic.RunAsync()
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential...Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: /home/younos/.local/.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: /home/younos/.local/.IdentityService/msal.cache
+KeyringCollection: 
+KeyringSchemaName: 
+KeyringSecretLabel: 
+KeyringAttribute1: (,)
+KeyringAttribute2: (,)
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
